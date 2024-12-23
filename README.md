@@ -128,5 +128,5 @@ The Inventory Management App leverages the following technologies:
 ## Contact
 
 For questions or support, please contact:
-- **Email**: [fredvuni@example.com](mailto:ishikanimade56@gmail.com)
+- **Email**: [ishikanimade56@gmail.com](mailto:ishikanimade56@gmail.com)
 
